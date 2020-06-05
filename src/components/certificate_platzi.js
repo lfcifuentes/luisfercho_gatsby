@@ -10,7 +10,6 @@ export default (props) => {
           <div className="flex-shrink-0">
             <img className="mx-auto"
                  src={ certificate.badge }
-                 alt="Woman paying for a purchase"
                  style={{
                    maxWidth: "55px"
                  }}

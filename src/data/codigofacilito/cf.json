@@ -12,33 +12,14 @@
         ],
         "articles":[],
         "finished_courses":[
-          {
-            "title":"Taller de Apps Universales con Nuxt y Vue",
-            "url":"http://codigofacilito.com/courses/taller-nuxt-vue"
-          },
-          {
-            "title":"Curso de introducción a la programación",
-            "url":"http://codigofacilito.com/courses/introduccion"},
-          {
-            "title":"Taller para consultar datos de una API con Vue",
-            "url":"http://codigofacilito.com/courses/rest-api-vue"
-          },
-          {
-            "title":"Curso Profesional de Git",
-            "url":"http://codigofacilito.com/courses/git-profesional"
-          },
-          {
-            "title":"Taller de introducción a Jenkins",
-            "url":"http://codigofacilito.com/courses/taller-jenkins"},
-          {
-            "title":"Taller de Vue con Firebase",
-            "url":"http://codigofacilito.com/courses/vue-firebase"
-          },
-          {
-            "title":"Curso gratis de Ruby",
-            "url":"http://codigofacilito.com/courses/ruby-2"
-          }
-        ]
+          {"title":"Taller de Apps Universales con Nuxt y Vue","url":"http://codigofacilito.com/courses/taller-nuxt-vue"},
+          {"title":"Curso de introducción a la programación","url":"http://codigofacilito.com/courses/introduccion"},
+          {"title":"Taller para consultar datos de una API con Vue","url":"http://codigofacilito.com/courses/rest-api-vue"},
+          {"title":"Curso Profesional de Git","url":"http://codigofacilito.com/courses/git-profesional"},
+          {"title":"Taller de introducción a Jenkins","url":"http://codigofacilito.com/courses/taller-jenkins"},
+          {"title":"Taller de Vue con Firebase","url":"http://codigofacilito.com/courses/vue-firebase"},
+          {"title":"Curso gratis de Ruby","url":"http://codigofacilito.com/courses/ruby-2"},
+          {"title":"Crea un sitio personal con Gatsby","url":"http://codigofacilito.com/courses/sitio-persional-gatsby"}]
       },
   "errors":[]
- }
+}

@@ -2,7 +2,7 @@ import React  from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Post from "./post"
 import Certificate from "./certificate"
-import Cource from "./cource"
+import Course from "./course"
 
 export default () => {
   const data = useStaticQuery(graphql`{
@@ -32,7 +32,7 @@ export default () => {
         <Post
           data={data.codigofacilitoJson.data.finished_courses}
           title="Cources CódigoFacilito"
-          card={Cource}
+          card={Course}
         />
       </div>
     </div>
