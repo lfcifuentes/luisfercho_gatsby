@@ -1,0 +1,44 @@
+{
+  "data":
+      {
+        "email":"lfcifuentes28@gmail.com",
+        "username":"luis_fercho",
+        "certificates":[
+          {
+            "score":9,
+            "code":"ce51a790-6d4e-4ccc-8b33-92c4177abef4",
+            "title":"Curso de introducción a la programación"
+          }
+        ],
+        "articles":[],
+        "finished_courses":[
+          {
+            "title":"Taller de Apps Universales con Nuxt y Vue",
+            "url":"http://codigofacilito.com/courses/taller-nuxt-vue"
+          },
+          {
+            "title":"Curso de introducción a la programación",
+            "url":"http://codigofacilito.com/courses/introduccion"},
+          {
+            "title":"Taller para consultar datos de una API con Vue",
+            "url":"http://codigofacilito.com/courses/rest-api-vue"
+          },
+          {
+            "title":"Curso Profesional de Git",
+            "url":"http://codigofacilito.com/courses/git-profesional"
+          },
+          {
+            "title":"Taller de introducción a Jenkins",
+            "url":"http://codigofacilito.com/courses/taller-jenkins"},
+          {
+            "title":"Taller de Vue con Firebase",
+            "url":"http://codigofacilito.com/courses/vue-firebase"
+          },
+          {
+            "title":"Curso gratis de Ruby",
+            "url":"http://codigofacilito.com/courses/ruby-2"
+          }
+        ]
+      },
+  "errors":[]
+ }

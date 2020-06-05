@@ -1,0 +1,64 @@
+{
+  "status": {
+    "error": false,
+    "code": 200
+  },
+  "userData": {
+    "careers": [],
+    "contributions": [],
+    "courses": [
+      {
+        "id": 0,
+        "title": "Curso de Programación en Go",
+        "badge": "https://static.platzi.com/media/achievements/1149-22b2c616-ccca-4d67-aefe-e0d3bc0c9f8b.png",
+        "url": "/clases/programacion-golang/",
+        "career": "",
+        "diploma_link": "/@luisfercho/curso/1149-go-basico/diploma/detalle/"
+      },
+      {
+        "id": 1526,
+        "title": "Curso de DevOps con GitLab",
+        "badge": "https://static.platzi.com/media/achievements/badges-gitlab-81a80b64-5304-4276-8f94-19a8a1e8912d.png",
+        "url": "/clases/gitlab/",
+        "career": "Desarrollo Backend con Ruby",
+        "diploma_link": "/@luisfercho/curso/1526-gitlab/diploma/detalle/"
+      },
+      {
+        "id": 1050,
+        "title": "Curso Gratis de Programación Básica",
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "url": "/clases/programacion-basica/",
+        "career": "Backend Profesional",
+        "diploma_link": "/@luisfercho/curso/1050-programacion-basica/diploma/detalle/"
+      },
+      {
+        "id": 1630,
+        "title": "Curso de Buenas Prácticas para Escritura de Código",
+        "badge": "https://static.platzi.com/media/achievements/badge-buenas-practicas-escritura-codigo-fcdbd219-8bd1-4578-ac07-b5abccf6e3b8.png",
+        "url": "/clases/mejor-codigo/",
+        "career": "Desarrollo Backend con Ruby",
+        "diploma_link": "/@luisfercho/curso/1630-mejor-codigo/diploma/detalle/"
+      }
+    ],
+    "socials": [
+      {
+        "type": "twitter",
+        "id": "1481115619"
+      },
+      {
+        "type": "facebook",
+        "id": "2640427419327868"
+      }
+    ],
+    "username": "luisfercho",
+    "answers": 4,
+    "avatar": "https://static.platzi.com/media/avatars/avatars/luisfercho_1fedf1fd-fccb-4521-a04d-0f93041f5eeb.png",
+    "description": "PHP, JS, GoLang Developer",
+    "flag": "https://static.platzi.com/media/flags/CO.png",
+    "last_update": "2020-06-04T03:09:29.079Z",
+    "name": "Luis Fernando Cifuentes Montaño",
+    "platzi_rank": "1.022",
+    "profile_url": "https://platzi.com/@luisfercho/",
+    "website": "https://github.com/luisfercho"
+  }
+}

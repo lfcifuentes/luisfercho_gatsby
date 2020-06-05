@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    @apply bg-gray-100
+}
+.image-header{
+    max-height:300px;
+    max-width:480px
+}
+@media all and (max-width: 800px) {
+    .image-header{
+        max-height:200px;
+        max-width:280px
+    }
+}
+@media all and (max-width: 550px) {
+    .image-header{
+        max-height:180px;
+        max-width:160px
+    }
+}
+.btn {
+    @apply bg-teal-500 text-white font-bold rounded border-teal-700 py-2 px-4 border-b-4
+}
+.repos-list{
+    columns: 3;
+    -moz-columns: 3;
+    column-rule: 1px solid;
+    @apply p-4
+}
+@media all and (max-width: 800px) {
+    .repos-list{
+        columns: 2;
+        -moz-columns: 2;
+    }
+}
+@media all and (max-width: 500px) {
+    .repos-list{
+        columns: 1;
+        -moz-columns: 1;
+    }
+}
+.repos-list li {
+    break-inside: avoid-column;
+}

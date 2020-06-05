@@ -1,3 +1,4 @@
+<!-- Color 38B2AC -->
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
