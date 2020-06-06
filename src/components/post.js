@@ -7,8 +7,8 @@ export default (props) => (
     </h2>
     <div className="flex mt-6 flex-wrap mb-4">
       {
-        props.data.map(el=>(
-          <props.card el={el} />
+        props.data.map((el,index)=> (
+          <props.card el={el} key={index} />
         ))
       }
     </div>
