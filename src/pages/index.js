@@ -3,6 +3,7 @@ import Header from "../components/header"
 import Repos from "../components/repos"
 import Codigofacilito from "../components/codigofacilito"
 import Platzi from "../components/platzi"
+import Footer from "../components/footer"
 import { Helmet } from "react-helmet"
 import favicon from "../img/favicon.ico"
 
@@ -21,6 +22,7 @@ export default function Home() {
       <Platzi />
       <Codigofacilito />
       <Repos />
+      <Footer />
     </div>
   )
 }
