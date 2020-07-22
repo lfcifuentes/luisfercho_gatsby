@@ -38,6 +38,14 @@
         "url": "/clases/mejor-codigo/",
         "career": "Desarrollo Backend con Ruby",
         "diploma_link": "/@luisfercho/curso/1630-mejor-codigo/diploma/detalle/"
+      },
+      {
+        "id": 1950,
+        "title": "Curso de Testing con Vue.js",
+        "badge": "https://static.platzi.com/media/achievements/badge-testing-vuejs-d23368ed-641e-43f4-afce-32e86e05211e.png",
+        "url": "/clases/testing-vuejs/",
+        "career": null,
+        "diploma_link": "/@luisfercho/curso/1950-testing-vuejs/diploma/detalle/"
       }
     ],
     "socials": [
