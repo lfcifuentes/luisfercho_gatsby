@@ -6,7 +6,15 @@
   "userData": {
     "careers": [],
     "contributions": [],
-    "courses": [
+    "courses": [  
+      {
+        "id": 1350,
+        "title": "Curso de Desarrollo Web Online",
+        "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
+        "url": "/clases/html5-css3/",
+        "career": "Arquitectura Frontend",
+        "diploma_link": "/@luisfercho/curso/1350-html5-css3/diploma/detalle/"
+      },
       {
         "id": 0,
         "title": "Curso de Programación en Go",
@@ -65,7 +73,7 @@
     "flag": "https://static.platzi.com/media/flags/CO.png",
     "last_update": "2020-06-04T03:09:29.079Z",
     "name": "Luis Fernando Cifuentes Montaño",
-    "platzi_rank": "1.022",
+    "platzi_rank": "1.690",
     "profile_url": "https://platzi.com/@luisfercho/",
     "website": "https://github.com/luisfercho"
   }
