@@ -8,6 +8,14 @@
     "contributions": [],
     "courses": [  
       {
+        "id": 1920,
+        "title": "Curso Básico de Manejo de Datos en Laravel con Eloquent ORM",
+        "badge": "https://static.platzi.com/media/achievements/badge-configurar-eloquent-model-laravel-68179995-fe12-4709-a62e-9a03d1483a20.png",
+        "url": "/clases/eloquent-laravel/",
+        "career": "Desarrollo Backend con PHP",
+        "diploma_link": "/@luisfercho/curso/1920-eloquent-laravel/diploma/detalle/"
+      },
+      {
         "id": 1350,
         "title": "Curso de Desarrollo Web Online",
         "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
