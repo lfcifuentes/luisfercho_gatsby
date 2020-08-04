@@ -62,6 +62,14 @@
         "url": "/clases/testing-vuejs/",
         "career": null,
         "diploma_link": "/@luisfercho/curso/1950-testing-vuejs/diploma/detalle/"
+      },
+      {
+        "id": 1651,
+        "title": "Curso Práctico de React JS",
+        "badge": "https://static.platzi.com/media/achievements/badge-react-adec89d0-1c35-4c9c-847e-18c284dc79dd.png",
+        "url": "/clases/react-ejs/",
+        "career": "JavaScript",
+        "diploma_link": "/@luisfercho/curso/1651-react-ejs/diploma/detalle/"
       }
     ],
     "socials": [
