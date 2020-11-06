@@ -70,6 +70,13 @@
         "url": "/clases/react-ejs/",
         "career": "JavaScript",
         "diploma_link": "/@luisfercho/curso/1651-react-ejs/diploma/detalle/"
+      },{
+        "id": 1815,
+        "title": "Curso de ECMAScript 6+",
+        "badge": "https://static.platzi.com/media/achievements/badge-ecmascript-6-d48e7bb7-a7a4-416d-a3b4-e11f0b13a229.png",
+        "url": "/clases/ecmascript-6/",
+        "career": "Backend con JavaScript",
+        "diploma_link": "/@luisfercho/curso/1815-ecmascript-6/diploma/detalle/"
       }
     ],
     "socials": [
