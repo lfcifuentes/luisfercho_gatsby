@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react"
 import repos_local  from "../data/repos"
 import Repo from "./repo"
 export default () => {
-
+  
   const [repos, setRepos] = useState([]);
   const [reposCount, setReposCount] = useState([]);
 
@@ -17,7 +17,7 @@ export default () => {
         return setRepos(my_repos);
       }
       async function fetchRepos(){
-        const response = await fetch("https://api.github.com/users/luisfercho/repos")
+        const response = await fetch("https://api.github.com/users/lfcifuentes/repos")
         my_repos = await response.json();
         setReposCount(my_repos.length);
         sessionStorage.setItem("repos",JSON.stringify(my_repos));
@@ -45,7 +45,7 @@ export default () => {
         }
       </ul>
       <div className="mt-8 text-center">
-        <a href="https://github.com/luisfercho" className="btn" target="_blank" rel="noreferrer noopener">
+        <a href="https://github.com/lfcifuentes" className="btn" target="_blank" rel="noreferrer noopener">
           Show more in GitHub ({ reposCount })
         </a>
       </div>
