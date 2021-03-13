@@ -29,7 +29,7 @@ export default () => {
             <a className="mx-2" href="https://github.com/lfcifuentes" target="_blank" rel="noopener noreferrer">
               <img src={github_brand} alt={name+" GitHub Profile"} height="30" width="30" />
             </a>
-            <a className="mx-2" href="https://gitlab.com/lfcifuentes" target="_blank" rel="noopener noreferrer">
+            <a className="mx-2" href="https://gitlab.com/lcifuentes.dev" target="_blank" rel="noopener noreferrer">
               <img src={gitlab_brand} alt={name+" GitLab Profile"} height="30" width="30" />
             </a>
             <a className="mx-2" href="https://www.linkedin.com/in/luis-fernando-cifuentes-3a6a90119/" target="_blank" rel="noopener noreferrer">
