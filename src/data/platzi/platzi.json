@@ -6,7 +6,15 @@
   "userData": {
     "careers": [],
     "contributions": [],
-    "courses": [  
+    "courses": [
+      {
+          "id": 2187,
+          "title": "Curso de Desarrollo en Laravel con Test Driven Development",
+          "badge": "https://static.platzi.com/media/achievements/badge-desarrollo-aplicaciones-laravel-tdd-5aea805b-cbd2-4f73-b6d7-f692132de394.png",
+          "url": "/clases/laravel-tdd/",
+          "career": null,
+          "diploma_link": "/p/luisfercho/curso/2187-laravel-tdd/diploma/detalle/"
+      },
       {
         "id": 1920,
         "title": "Curso Básico de Manejo de Datos en Laravel con Eloquent ORM",
