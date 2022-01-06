@@ -13,7 +13,7 @@
           "badge": "https://static.platzi.com/media/achievements/badge-desarrollo-aplicaciones-laravel-tdd-5aea805b-cbd2-4f73-b6d7-f692132de394.png",
           "url": "/clases/laravel-tdd/",
           "career": null,
-          "diploma_link": "/p/luisfercho/curso/2187-laravel-tdd/diploma/detalle/"
+          "diploma_link": "/p/lfcifuentes/curso/2187-laravel-tdd/diploma/detalle/"
       },
       {
         "id": 1920,
@@ -21,7 +21,7 @@
         "badge": "https://static.platzi.com/media/achievements/badge-configurar-eloquent-model-laravel-68179995-fe12-4709-a62e-9a03d1483a20.png",
         "url": "/clases/eloquent-laravel/",
         "career": "Desarrollo Backend con PHP",
-        "diploma_link": "/@luisfercho/curso/1920-eloquent-laravel/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1920-eloquent-laravel/diploma/detalle/"
       },
       {
         "id": 1350,
@@ -29,7 +29,7 @@
         "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
         "url": "/clases/html5-css3/",
         "career": "Arquitectura Frontend",
-        "diploma_link": "/@luisfercho/curso/1350-html5-css3/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1350-html5-css3/diploma/detalle/"
       },
       {
         "id": 0,
@@ -37,7 +37,7 @@
         "badge": "https://static.platzi.com/media/achievements/1149-22b2c616-ccca-4d67-aefe-e0d3bc0c9f8b.png",
         "url": "/clases/programacion-golang/",
         "career": "",
-        "diploma_link": "/@luisfercho/curso/1149-go-basico/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1149-go-basico/diploma/detalle/"
       },
       {
         "id": 1526,
@@ -45,7 +45,7 @@
         "badge": "https://static.platzi.com/media/achievements/badges-gitlab-81a80b64-5304-4276-8f94-19a8a1e8912d.png",
         "url": "/clases/gitlab/",
         "career": "Desarrollo Backend con Ruby",
-        "diploma_link": "/@luisfercho/curso/1526-gitlab/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1526-gitlab/diploma/detalle/"
       },
       {
         "id": 1050,
@@ -53,7 +53,7 @@
         "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
         "url": "/clases/programacion-basica/",
         "career": "Backend Profesional",
-        "diploma_link": "/@luisfercho/curso/1050-programacion-basica/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1050-programacion-basica/diploma/detalle/"
       },
       {
         "id": 1630,
@@ -61,7 +61,7 @@
         "badge": "https://static.platzi.com/media/achievements/badge-buenas-practicas-escritura-codigo-fcdbd219-8bd1-4578-ac07-b5abccf6e3b8.png",
         "url": "/clases/mejor-codigo/",
         "career": "Desarrollo Backend con Ruby",
-        "diploma_link": "/@luisfercho/curso/1630-mejor-codigo/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1630-mejor-codigo/diploma/detalle/"
       },
       {
         "id": 1950,
@@ -69,7 +69,7 @@
         "badge": "https://static.platzi.com/media/achievements/badge-testing-vuejs-d23368ed-641e-43f4-afce-32e86e05211e.png",
         "url": "/clases/testing-vuejs/",
         "career": null,
-        "diploma_link": "/@luisfercho/curso/1950-testing-vuejs/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1950-testing-vuejs/diploma/detalle/"
       },
       {
         "id": 1651,
@@ -77,14 +77,14 @@
         "badge": "https://static.platzi.com/media/achievements/badge-react-adec89d0-1c35-4c9c-847e-18c284dc79dd.png",
         "url": "/clases/react-ejs/",
         "career": "JavaScript",
-        "diploma_link": "/@luisfercho/curso/1651-react-ejs/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1651-react-ejs/diploma/detalle/"
       },{
         "id": 1815,
         "title": "Curso de ECMAScript 6+",
         "badge": "https://static.platzi.com/media/achievements/badge-ecmascript-6-d48e7bb7-a7a4-416d-a3b4-e11f0b13a229.png",
         "url": "/clases/ecmascript-6/",
         "career": "Backend con JavaScript",
-        "diploma_link": "/@luisfercho/curso/1815-ecmascript-6/diploma/detalle/"
+        "diploma_link": "/@lfcifuentes/curso/1815-ecmascript-6/diploma/detalle/"
       }
     ],
     "socials": [
@@ -97,15 +97,15 @@
         "id": "2640427419327868"
       }
     ],
-    "username": "luisfercho",
+    "username": "lfcifuentes",
     "answers": 4,
     "avatar": "https://static.platzi.com/media/avatars/avatars/luisfercho_1fedf1fd-fccb-4521-a04d-0f93041f5eeb.png",
     "description": "PHP, JS, GoLang Developer",
     "flag": "https://static.platzi.com/media/flags/CO.png",
     "last_update": "2020-06-04T03:09:29.079Z",
     "name": "Luis Fernando Cifuentes Montaño",
-    "platzi_rank": "1.690",
-    "profile_url": "https://platzi.com/@luisfercho/",
+    "platzi_rank": "2.980",
+    "profile_url": "https://platzi.com/@lfcifuentes/",
     "website": "https://github.com/luisfercho"
   }
 }
