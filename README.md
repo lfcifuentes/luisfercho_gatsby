@@ -5,4 +5,4 @@ Personal website with:
     <li>GraphQL</li>
 </ul>  
 
-[Page](https://luisfercho.netlify.app)
+[Page](https://lfcifuentes.netlify.app)
