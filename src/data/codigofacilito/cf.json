@@ -12,6 +12,7 @@
         ],
         "articles":[],
         "finished_courses":[
+          {"title":"Crea una API REST con Go", "url":"https://codigofacilito.com/cursos/go-rest"},
           {"title":"Taller de Apps Universales con Nuxt y Vue","url":"http://codigofacilito.com/courses/taller-nuxt-vue"},
           {"title":"Curso de introducción a la programación","url":"http://codigofacilito.com/courses/introduccion"},
           {"title":"Taller para consultar datos de una API con Vue","url":"http://codigofacilito.com/courses/rest-api-vue"},
